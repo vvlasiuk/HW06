@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather forecast</string>
+    <string name="TextDefault">It default text</string>
+    <string name="ButtonTryAgain">Try again</string>
+    <string name="ButtonSettingsApply">Apply</string>
+    <string name="ButtonSettingsCancel">Cancel</string>
+    <string name="ButtonDetailBack">Back</string>
+    <string name="TextNoInternet">No internet access. \nConnect the Internet and try again</string>
+    <string name="MenuItem_Settings">Settings</string>
+    <string name="Settings_Celsius">Celsius</string>
+    <string name="Settings_Kelvin">Kelvin</string>
+    <string name="Settings_Celsius_Shot">C</string>
+    <string name="Settings_Kelvin_Shot">K</string>
+    <string name="Settings_TextSelect">Select the temperature unit:</string>
+    <string name="KEY_Settings_TempUnit">TempUnit</string>
+</resources>
